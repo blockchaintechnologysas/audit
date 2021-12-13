@@ -1,0 +1,1 @@
+# Granacoin (GRACO) audit report.
